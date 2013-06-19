@@ -1,5 +1,5 @@
 /* Remove bootstrap icons to eliminate conflict with Font Awesome */
 [class^="icon-"],
 [class*=" icon-"] {
-	background-image: none; !important
+	background-image: none !important;
 }
